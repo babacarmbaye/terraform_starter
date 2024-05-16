@@ -1,0 +1,6 @@
+terraform.tfstate
+.terraform.lock.hcl
+.terraform/
+aws-app-plan
+terraform.tfstate
+terraform.tfstate.backup
